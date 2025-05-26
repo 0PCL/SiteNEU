@@ -2,6 +2,7 @@
 const nextConfig = {
   output: 'export',
   basePath: '/SiteNEU',
+  assetPrefix: '/SiteNEU/',
   images: {
     domains: ['placeholder.com'],
     dangerouslyAllowSVG: true,
